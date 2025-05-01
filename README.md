@@ -11,12 +11,11 @@ I'm an aspiring software developer with a passion for learning new technologies 
 - ⚡ Fun fact: I love exploring new tech gadgets and playing video games in my free time!
 
 ## Skills
-- Programming Languages: Python, HTML, CSS, R, Java
-- Tools & Technologies: Git, VS Code, GitHub, jupyter notebook, Data Visualization with R, Data Science with python
+- Programming Languages: Python, HTML, CSS,JavaScript, Java
+- Tools & Technologies: VS Code, GitHub, jupyter notebook, Data Visualization with R, Data Science with python
 
 ## Projects
 - **Personal Portfolio Website** - A simple website to showcase my projects and skills.
-- **Basic Calculator** - A command-line calculator built using Python.
 - **Password Generator Project** - Created a robust password generator to produce secure passwords with varying lengths, incorporating a mix of uppercase and lowercase letters, digits, and special characters.
   - **Objectives**: Explored the fundamental functionalities of the `os` and `sys` libraries, implemented practical examples, and solved exercises to solidify my knowledge.
 - **File Organizer Project** - Developed an efficient system for managing files, ensuring order and accessibility.
