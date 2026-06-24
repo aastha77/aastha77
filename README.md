@@ -1,54 +1,58 @@
-# Hi there, I'm Aastha Pandey 👋
+# Hi, I'm Aastha Pandey 👋
 
-I'm an aspiring **software developer** with a passion for learning new technologies and improving my coding skills.
+Full Stack Developer in progress, focused on building scalable web applications, strong backend systems, and real-world software solutions.
 
-## About Me
-- 🔭 Currently focusing on **learning backend development** and mastering **Python**.
-- 🌱 Passionate about improving my skills in **web development** and **advanced Python projects**.
-- 👯 Actively looking to collaborate on **open-source projects** to expand my knowledge and give back to the community.
-- 💬 Feel free to ask me about programming basics or my learning journey!
-- 📫 How to reach me: [aasthapandey8830@gmail.com](mailto:aasthapandey8830@gmail.com)  
-- ⚡ Fun fact: I love exploring new tech gadgets and playing video games in my free time!
+I enjoy writing clean code, solving logical problems, and turning ideas into functional products.
 
 ---
 
-## Skills
-- **Programming Languages**: Python, HTML, CSS, JavaScript, Java
-- **Tools & Technologies**: VS Code, GitHub, Jupyter Notebook, Data Visualization with R, Data Science with Python
+## 🚀 About Me
+- 🔭 Building expertise in Full Stack Development (MERN + Django ecosystem)  
+- 🌱 Currently learning Python, JavaScript, Node.js, Express, React, and System Design basics  
+- 🧠 Passionate about backend development, APIs, and scalable architectures  
+- 👯 Open to collaborating on impactful real-world and open-source projects  
+- 💬 Ask me about web development, Python, or backend APIs  
+- 📫 Email: aastha.pandey8830@gmail.com  
+- ⚡ Fun fact: I prefer building things from scratch to truly understand how they work  
 
 ---
 
-## Projects
-- 🚀 **Personal Portfolio Website**  
-  A simple website to showcase my projects and skills.
+## 🛠️ Tech Stack
 
-- 🔐 **Password Generator Project**  
-  Created a robust password generator to produce secure passwords with varying lengths, incorporating a mix of uppercase and lowercase letters, digits, and special characters.
-
-- 🗂️ **File Organizer Project**  
-  Developed an efficient system for managing files, ensuring order and accessibility.
-
-- 📝 **Random Name Generator Project**  
-  Created a tool that generates unique and meaningful names.
-
-- 🖥️ **Simpler Version of Command Prompt**  
-  Developed a streamlined command-line interface, simplifying user interactions.
-
-- 🔄 **File Synchronizer Project**  
-  Designed a solution to synchronize files between directories, maintaining consistency and accuracy.
+**Languages:** Python, JavaScript, Java, HTML, CSS  
+**Backend:** Node.js, Express, Django, REST APIs  
+**Frontend:** React (learning), HTML, CSS, JavaScript  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
-## Tech Interests
-- 🌍 Exploring **AI & Machine Learning** applications.
-- 🛠️ Passionate about building tools for **automation** and **security**.
-- 🎮 In my free time, I'm always testing out the latest **tech gadgets** .
+## 🚀 Projects
 
+- 🔐 Password Generator – Secure, customizable password creation tool  
+- 🗂️ File Organizer System – Automates file sorting and structure management  
+- 📝 Random Name Generator – Generates meaningful random names  
+- 🖥️ Command Prompt Clone – Lightweight CLI simulation tool  
+- 🔄 File Synchronizer – Syncs files across directories efficiently  
+- 🌐 Portfolio Website – Personal developer showcase platform  
+
+---
+
+## 🎯 Focus Areas
+- Backend System Design & API Development  
+- Full Stack Web Applications  
+- Scalable Software Architecture  
+- AI / ML Fundamentals & Practical Use Cases  
 
 ---
 
-## Let's Collaborate!
-I love contributing to **beginner-friendly open-source projects**. If you're looking for help with coding or want to collaborate on something fun, feel free to reach out!  
-📧 [Email me](mailto:aasthapandey8830@gmail.com) or [Connect on LinkedIn](http://www.linkedin.com/in/aastha-pandey-401839275).
+## 🤝 Let’s Connect
+I’m actively building and looking for opportunities in Full Stack / Backend Development roles.
+
+📧 Email: aastha.pandey8830@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/aasthapandey8830
+🐙 GitHub: https://github.com/aastha77  
 
 ---
+
+⭐ *Building consistently. Improving daily. Thinking long-term.*
